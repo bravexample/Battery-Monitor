@@ -28,7 +28,7 @@ func monitor() {
             break
         }
         
-        Thread.sleep(forTimeInterval: 300)
+        Thread.sleep(forTimeInterval: 60)
     }
 }
 
